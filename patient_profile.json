@@ -1,0 +1,37 @@
+{
+  "name": "Mrs. Thilaga",
+  "preferred_name": "Thilaga Aunty",
+  "known_family": {
+    "daughter": "Rosline",
+    "grandson": "Cyrus",
+    "husband": "Thomas"
+  },
+  "medical_history": [
+    "Diabetes",
+    "Mild Alzheimer's",
+    "Right-handed"
+  ],
+  "voice_tone": "gentle and respectful",
+  "daily_routine": [
+    "morning walk",
+    "breakfast at 8 AM",
+    "medicine after breakfast",
+    "nap at 2 PM",
+    "evening tea",
+    "dinner at 7 PM"
+  ],
+  "reminders": [
+    {
+      "time": "08:00",
+      "message": "It's time for your breakfast, Rosline. Please take your medicine after eating."
+    },
+    {
+      "time": "14:00",
+      "message": "Time for your nap. Let’s rest for a while."
+    },
+    {
+      "time": "19:00",
+      "message": "Dinner time, Rosline! Let’s eat together."
+    }
+  ]
+}
